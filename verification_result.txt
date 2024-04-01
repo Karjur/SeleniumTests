@@ -1,0 +1,2 @@
+Global presence is shown on the page.
+Meie asukohad is shown on the page.
